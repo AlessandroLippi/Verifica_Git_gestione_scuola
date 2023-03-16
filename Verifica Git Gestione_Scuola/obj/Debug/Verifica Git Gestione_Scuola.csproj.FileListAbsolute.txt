@@ -1,0 +1,8 @@
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\bin\Debug\Verifica Git Gestione_Scuola.exe.config
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\bin\Debug\Verifica Git Gestione_Scuola.exe
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\bin\Debug\Verifica Git Gestione_Scuola.pdb
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\obj\Debug\Verifica Git Gestione_Scuola.csproj.AssemblyReference.cache
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\obj\Debug\Verifica Git Gestione_Scuola.csproj.SuggestedBindingRedirects.cache
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\obj\Debug\Verifica Git Gestione_Scuola.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\obj\Debug\Verifica Git Gestione_Scuola.exe
+C:\Users\alessandro.lippi\Desktop\Verifica Git Gestione_Scuola\Verifica Git Gestione_Scuola\obj\Debug\Verifica Git Gestione_Scuola.pdb
