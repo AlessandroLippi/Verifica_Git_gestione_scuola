@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Verifica_Git_Gestione_Scuola
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     public class alunno
     {
         public string nome { get; set; }
@@ -18,13 +19,21 @@ namespace Verifica_Git_Gestione_Scuola
 =======
     internal class alunno
     {
+=======
+    public class alunno
+    {
+>>>>>>> scuola
         string nome { get; set; }
         string cognome { get; set; }
         string residenza { get; set; }
         int eta { get; set; }
 
+<<<<<<< HEAD
         internal alunno(string nome, string cognome, string residenza, int eta)
 >>>>>>> alunno
+=======
+        public alunno(string nome, string cognome, string residenza, int eta)
+>>>>>>> scuola
         {
             this.nome = nome;
             this.cognome = cognome;

@@ -9,6 +9,7 @@ namespace Verifica_Git_Gestione_Scuola
     public class Scuola
     {
         string nome { get; set; }
+<<<<<<< HEAD
         string indirizzo { get; set; }
         string orario { get; set; }
         List<alunno> alunni = new List<alunno>(); 
@@ -17,10 +18,21 @@ namespace Verifica_Git_Gestione_Scuola
             {
                 this.nome = nome;
                 this.indirizzo = cognome;
+=======
+        string cognome { get; set; }
+        int orario { get; set; }
+        List<alunno> alunni = new List<alunno>(); 
+
+            public Scuola(string nome, string cognome, int orario)
+            {
+                this.nome = nome;
+                this.cognome = cognome;
+>>>>>>> scuola
                 this.orario = orario;
 
             }
 
+<<<<<<< HEAD
         public void AggiungiAlunno(alunno a)
         {
             alunni.Add(a);
@@ -39,10 +51,27 @@ namespace Verifica_Git_Gestione_Scuola
 
             }
         }
+=======
+        public void AggiungiAlunno()
+        {
+            alunno a = new alunno("Alessandro", "Lippi", "Meldola", 18);
+            alunni.Add(a);
+        }
+        //metodo che gestisce la ricerca degli alunni:
+
+        //public string RicercaPerCognome()
+        //{
+        //    foreach(int alunno in alunni)
+        //    {
+        //        if(alunni[alunno].cognome)
+        //    }
+        //}
+>>>>>>> scuola
 
 
         //metodo di ricerca per l'età:
 
+<<<<<<< HEAD
         public void RicercaPerEtà()
         {
             Console.WriteLine("inserire l'età dell'alunno da ricercare:");
@@ -67,6 +96,14 @@ namespace Verifica_Git_Gestione_Scuola
         }
 
 
+=======
+
+
+
+
+        //metodo di controllo di tutti gli alunni presenti : 
+
+>>>>>>> scuola
 
 
     }
