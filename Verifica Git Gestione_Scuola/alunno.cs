@@ -54,7 +54,7 @@ namespace Verifica_Git_Gestione_Scuola
             if (a.eta <= 16)
                 Console.WriteLine("L'alunno " + a.nome + "frequenta il biennio");
             else
-                Console.WriteLine("L'alunno " + a.nome + "frequenta il triennio");
+                Console.WriteLine("L'alunno " + a.nome + "frequenta il triennio");                      /u git sa ttfaca ifdimo
 
         }
     }
